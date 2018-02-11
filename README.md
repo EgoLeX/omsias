@@ -1,5 +1,7 @@
 # OmsiAS - Advanced Starter  || Version 1.0
 
+> Created with :heart: in Germany :de:
+
 ![OmsiAS Features](https://i.imgur.com/syjLUvs.jpg)
 
 :thumbsup: **Features**
@@ -19,9 +21,6 @@
 | English | German |
 | --- | --- |
 | [Java 8 or higher](https://java.com/de/download/) | [Java 8 oder höher](https://java.com/de/download/) |
-
-
-> Created with :heart: in Germany :de:
 
 
 **Screenshots (from BETA Version)**
