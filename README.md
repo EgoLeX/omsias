@@ -18,7 +18,7 @@
 
 | English | German |
 | --- | --- |
-| Java 8 or higher | Java 8 oder höher |
+| [Java 8 or higher](https://java.com/de/download/) | [Java 8 oder höher](https://java.com/de/download/) |
 
 
 > Created with :heart: in Germany :de:
