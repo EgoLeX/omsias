@@ -1,4 +1,4 @@
-# OmsiAS - Advanced Starter
+# OmsiAS - Advanced Starter  || Version 1.0
 
 ![OmsiAS Features](https://i.imgur.com/syjLUvs.jpg)
 
