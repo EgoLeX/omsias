@@ -2,11 +2,7 @@
 
 ![OmsiAS Features](https://i.imgur.com/syjLUvs.jpg)
 
-| a | b |
-| --- | --- |
-| hi | hi |
-
-**Features**
+:thumbsup: **Features**
 
 | English | German |
 | --- | --- |
@@ -18,7 +14,8 @@
 | Overview of installed maps and busses | Übersicht über installierte Karten und Busse |
 | Freeware and OpenSource | Kostenlos und OpenSource |
 
-**Requirements**
+:exclamation: **Requirements**
+
 | English | German |
 | --- | --- |
 | Java 8 or higher | Java 8 oder höher |
