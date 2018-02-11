@@ -7,6 +7,7 @@
 | hi | hi |
 
 **Features**
+
 | English | German |
 | --- | --- |
 | Good and modern menu | Übersichtliches und modernes Menü |
