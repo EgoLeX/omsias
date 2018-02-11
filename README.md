@@ -2,6 +2,10 @@
 
 ![OmsiAS Features](https://i.imgur.com/syjLUvs.jpg)
 
+| a | b |
+| --- | --- |
+| hi | hi |
+
 **Features**
 | English | German |
 | --- | --- |
