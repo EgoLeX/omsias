@@ -31,7 +31,5 @@
 
 **Changelog**
 
-| 12.02.2018: | No new Version (V 1.0)
-| English | German |
-| --- | --- |
-| - new installer (fix bug that some people get virus warning when launching Omsias) | - neuer Installer (Bug entfernt das einige Leute eine Virus Warnung beim starten von OmsiAS bekommen ) |
+12.02.2018: | No new Version (V 1.0)
+- new installer (fix bug that some people get virus warning when launching Omsias)
