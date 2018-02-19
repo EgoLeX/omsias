@@ -15,6 +15,7 @@
 | included Omsi SDK tools | Omsi SDK Tools enthalten |
 | Overview of installed maps and busses | Übersicht über installierte Karten und Busse |
 | Freeware and OpenSource | Kostenlos und OpenSource |
+| Multilingual: EN,DE,TR,RU | Mehrsprachig: DE,EN,TR,RU |
 
 :exclamation: **Requirements**
 
