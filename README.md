@@ -32,5 +32,9 @@
 
 **Changelog**
 
+20.02.2018 | New Version 1.1
+- New language: Russian
+- fixed bug that the "logfile" button in tools page woulnd´t working
+
 12.02.2018: | No new Version (V 1.0)
 - new installer (fix bug that some people get virus warning when launching Omsias)
