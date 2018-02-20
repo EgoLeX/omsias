@@ -10,11 +10,9 @@ import java.io.FileInputStream;
 import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStream;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.net.MalformedURLException;
 import java.util.Arrays;
 import java.util.Properties;
-import java.util.stream.Collectors;
 
 import javax.swing.JFrame;
 import javax.swing.GroupLayout;
@@ -243,12 +241,7 @@ public class tools {
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
-					try {
-						ep_logfile_full.setText(readLog());
-					} catch (IOException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
+					readLog();
 			}
 		});
 		
@@ -595,11 +588,16 @@ public class tools {
 		frame.getContentPane().setLayout(groupLayout);
 	}
 	
-    public String readLog() throws IOException {
+    public void readLog() {
     	String pathlog = new StringBuilder(pathtoomsifolder).append("/logfile.txt").toString();
-        String contents = Files.lines(Paths.get(pathlog)).collect(Collectors.joining("\n"));
-        System.out.println(contents);
-        return contents;
+    	File file = new File(pathlog);
+    	try {
+			ep_logfile_full.setPage(file.toURI().toURL());
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
     }
 	
 	public void prozess(String path) {
