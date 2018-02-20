@@ -1,4 +1,4 @@
-# OmsiAS - Advanced Starter  || Version 1.0
+# OmsiAS - Advanced Starter  || Version 1.1
 
 > Created with :heart: in Germany :de:
 
