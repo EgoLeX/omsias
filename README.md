@@ -24,10 +24,11 @@
 | [Java 8 or higher](https://java.com/de/download/) | [Java 8 oder höher](https://java.com/de/download/) |
 
 
-**Screenshots (from BETA Version)**
+**Screenshots (from Version 1.1)**
 
-![pic1](https://i.imgur.com/EqwaB5d.png)
-![pic2](https://i.imgur.com/dDfVTUK.png)
+![pic1](https://i.imgur.com/Fa0NCuC.jpg)
+![pic2](https://i.imgur.com/cUM5NMY.jpg)
+![pic2](https://i.imgur.com/Te0GEjt.jpg)
 
 
 **Changelog**
